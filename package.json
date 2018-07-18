@@ -1,0 +1,19 @@
+{
+  "name": "cinewild_server",
+  "version": "1.0.0",
+  "description": "server for last project wild code school about viewing films, like Allociné",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddelaage/cinewild_server.git"
+  },
+  "author": "Edouard de Laage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eddelaage/cinewild_server/issues"
+  },
+  "homepage": "https://github.com/eddelaage/cinewild_server#readme"
+}
